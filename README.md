@@ -78,15 +78,15 @@ It will open a command windows showing the status of the Web API.
 http://localhost:8888/api/productionplan
 ```
 
-![alt text]()
+![alt text](https://github.com/EliascSalameh/PowerPlantChallenge/blob/56a415673ed1fe75f06b392bc794b26a651d4314/REST.Hosting/Screenshots/Application%20Execution%20ScreenShots/1-PostMan%20Headers%20Tab.JPG)
 
-![alt text]()
+![alt text](https://github.com/EliascSalameh/PowerPlantChallenge/blob/56a415673ed1fe75f06b392bc794b26a651d4314/REST.Hosting/Screenshots/Application%20Execution%20ScreenShots/2-Post%20Man%20Body%20Tab.JPG)
 
 4-The application will then call the power plant controller and from the JSon string  (ex:`payload1.Json`,...) it will read the input and calculate the unit commitment.
 
 5-Return the expected result in the below JSON format
 
-![alt text]()
+![alt text](https://github.com/EliascSalameh/PowerPlantChallenge/blob/56a415673ed1fe75f06b392bc794b26a651d4314/REST.Hosting/Screenshots/Application%20Execution%20ScreenShots/3-Post%20Man%20Result.PNG)
 
 ## Extra - Add Dockerfile
 Screenshots for the Docker implementation under the following path .\Screenshots\Docker ScreenShots
